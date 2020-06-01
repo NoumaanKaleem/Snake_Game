@@ -1,4 +1,4 @@
 # Snake_Game
-Just a simple snake game I made in my free time :)
+Snake game made with Python.
 
 Before running make sure you have curses installed.
